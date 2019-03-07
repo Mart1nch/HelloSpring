@@ -1,6 +1,5 @@
 
 .DS_Store
-SpringDemo/lib/commons-logging-1.2.jar
 *.jar
 *.class
 SpringDemo/.settings/org.eclipse.jdt.core.prefs
